@@ -1,0 +1,18 @@
+{
+  "name": "gb-studio-palettes",
+  "displayName": "GB Studio Palettes",
+  "description": "Palettes used by GB Studio",
+  "version": "1.0",
+  "author": { "name": "Chris Maltby", "url": "https://www.gbstudio.dev/" },
+  "publisher": "aseprite",
+  "categories": [
+    "Palettes"
+  ],
+  "contributes": {
+    "palettes": [
+      { "id": "GB-STUDIO-BACKGROUNDS", "path": "./backgrounds.gpl" },
+      { "id": "GB-STUDIO-SPRITES", "path": "./sprites.gpl" },
+      { "id": "GB-STUDIO-ALL", "path": "./backgrounds-and-sprites.gpl" }
+    ]
+  }
+}
