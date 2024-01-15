@@ -1,18 +1,19 @@
 {
   "name": "gb-studio-palettes",
   "displayName": "GB Studio Palettes",
-  "description": "Palettes used by GB Studio",
-  "version": "1.0",
+  "description": "Asset color requirements for GB Studio",
+  "version": "3.0",
   "author": { "name": "Chris Maltby", "url": "https://www.gbstudio.dev/" },
-  "publisher": "aseprite",
+  "publisher": "Paige Ashlynn",
   "categories": [
     "Palettes"
   ],
   "contributes": {
     "palettes": [
-      { "id": "GB-STUDIO-BACKGROUNDS", "path": "./backgrounds.gpl" },
-      { "id": "GB-STUDIO-SPRITES", "path": "./sprites.gpl" },
-      { "id": "GB-STUDIO-ALL", "path": "./backgrounds-and-sprites.gpl" }
+      { "id": "GB Studio All", "path": "./gb-studio-all.gpl" }
+      { "id": "GB Studio Backgrounds", "path": "./gb-studio-backgrounds.gpl" },
+      { "id": "GB Studio Fonts", "path": "./gb-studio-fonts.gpl" },
+      { "id": "GB Studio Sprites", "path": "./gb-studio-sprites.gpl" },
     ]
   }
 }
