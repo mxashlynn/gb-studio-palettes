@@ -10,10 +10,10 @@
   ],
   "contributes": {
     "palettes": [
-      { "id": "GB Studio All", "path": "./gb-studio-all.gpl" }
+      { "id": "GB Studio All", "path": "./gb-studio-all.gpl" },
       { "id": "GB Studio Backgrounds", "path": "./gb-studio-backgrounds.gpl" },
       { "id": "GB Studio Fonts", "path": "./gb-studio-fonts.gpl" },
-      { "id": "GB Studio Sprites", "path": "./gb-studio-sprites.gpl" },
+      { "id": "GB Studio Sprites", "path": "./gb-studio-sprites.gpl" }
     ]
   }
 }
