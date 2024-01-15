@@ -24,7 +24,15 @@ Note that this is different than the binary `.aseprite` format that Aseprite exp
 
 ## Installation 📁
 
-To install these, copy the entire content of this repository to `<Application Path>\Aseprite\data\extensions\gb-studio-palettes`, where `<Application Path>` is the install location of Aseprite on your machine.
+### Automatic Install
+
+Download the extension file from [GB Studio Aseprite Palettes](https://mxashlynn.itch.io/gb-studio-aseprite-palettes) to your machine and double-click it.
+
+
+### Manual Install
+
+1. Copy the `package.json` file and every `.gpl` file from this repository to `<Application Path>\Aseprite\data\extensions\gb-studio-palettes`, where `<Application Path>` is the install location of Aseprite on your machine.
+2. Restart Aseprite.
 
 
 ## Rights 🏳️‍🌈
